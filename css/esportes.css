@@ -52,11 +52,8 @@ h1{
  padding-top: 30px;
 }
 
-.list{
-   float:right; 
-   width: 25%;
-   padding-right: 550px;
-   padding-top: 20px;
+.espaco{
+    padding-bottom: 10px;
 }
 .fla,.kev,.bra{
     margin-top: 50px;
@@ -100,5 +97,17 @@ a{
 }
 .time4{
     margin-top: -80px;
+}
+aside{
+    width: 100%;
+    height: 150px;
+}
+.pub{
+    text-align: center;
+    margin-top: 200px;
+}
+.pubi{
+    text-align: center;
+    padding-top: 30px;
 }
 

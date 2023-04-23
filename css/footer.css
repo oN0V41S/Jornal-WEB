@@ -19,3 +19,6 @@ footer .link a{
 footer .link a:hover{
     color: #4c65b6;
 }
+.social{
+    float: right;
+}
