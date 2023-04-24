@@ -1,0 +1,39 @@
+
+main{
+    display: flex;
+    margin: 5%;
+    line-height: 140%;
+    color: azure;
+}
+
+main a{
+    color: white;
+}
+main h1{
+    font-size: 18px;
+}
+main h2{
+    font-size: 16px;
+}
+main img{
+    border-radius: 5%;
+}
+.content:hover{
+    border-radius: 5%;
+    background-color: rgba(69, 69, 255, 0.603);
+
+}
+
+main .content{
+    margin-bottom: 30px;
+    margin-left: 50px;
+    float: left;
+    overflow: hidden;
+    padding: 2em;
+}
+
+main .content1{
+    margin-right: 40px;
+}
+ 
+
