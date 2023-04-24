@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main{
+    text-align: justify;
+    margin: 5em 6em;
+    line-height: 26px;
+    font-size: 1em;
+}
+.main h1{
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+.main .img{
+    align-items: center;
+    text-align: center;
+    color:rgb(99, 99, 99);
+    margin: 30px;
+}
+
+.main1 .img{
+    float: right;
+}
+
