@@ -1,0 +1,88 @@
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #ada9a9;
+}
+
+.noticia{
+    text-decoration: none;
+    margin-left: 10px;
+    float: left;
+    color: white;
+    padding: 5px;
+    margin-top: auto;
+    border-spacing: 5px;
+}
+
+.noticia:hover{
+    color: black;
+}
+ 
+div{
+    margin: auto;
+}
+
+
+.H1{
+    background-color: rgb(70, 100, 126);
+    border: 1px solid rgb(70, 100, 126);
+    color: aliceblue;
+    font-size: 400%;
+    font-style: inherit;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+
+.nav1{
+    background-color: rgb(61, 74, 85);
+    text-align: left;
+    font-size: 150%;
+    word-spacing: 45px;
+    text-decoration: none;
+    padding: 15px; 
+    font-style:unset;
+}
+
+.cabeçalho{
+    text-decoration: none;
+    color: white;
+}
+
+.cabeçalho:hover{
+    color: black;
+}
+
+article{
+    border: 5px solid #ada9a9;
+    margin:45px 65px;
+    text-align: center;
+}
+
+
+.direita{
+    float: right;  
+    padding: 10px;
+}
+
+.direita:hover{
+ background-color: black;
+}
+
+.esquerda:hover{
+    background-color: black;
+    text-align: end;
+}
+
+.link{
+    text-decoration: none;
+}
+
+img{
+    border-radius: 2%;
+}
+
+.odio{
+    color: #ada9a9;
+}
